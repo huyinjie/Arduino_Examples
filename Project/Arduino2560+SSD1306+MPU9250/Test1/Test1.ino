@@ -149,5 +149,5 @@ void showData(double dataList[]){
 void loop() {
   getResult = getIMUData(result);
   showData(getResult);
-  delay(20);
+  delay(333);
 }
